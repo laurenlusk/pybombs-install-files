@@ -20,9 +20,7 @@
 category: common
 depends:
 - gnuradio
-- gr-uhdgps-e310
-- gr-eventstream
-description: This block automatically cycles through frequencies
+description: Blocks to assist in GPS Data logging with UHD USRP E310 and a GPS antenna
 gitbranch: master
 inherit: cmake
-source: git+https://github.com/laurenlusk/gr-frequency_hopper.git
+source: git+https://github.com/laurenlusk/gr-uhdgps-e310.git
