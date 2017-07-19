@@ -1,6 +1,7 @@
 category: baseline
 depends:
 - python
-inherit: empty
+inherit: distutils
 satisfy:
   pip: gps3
+source git+https://github.com/wadda/gps3.git
