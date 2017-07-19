@@ -1,6 +1,6 @@
 category: baseline
 depends:
 - python
-inherit: distutils
+inherit: empty
 satisfy:
   pip: gps3
