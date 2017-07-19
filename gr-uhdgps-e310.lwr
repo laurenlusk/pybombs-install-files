@@ -23,4 +23,4 @@ depends:
 description: Blocks to assist in GPS Data logging with UHD USRP E310 and a GPS antenna
 gitbranch: master
 inherit: cmake
-source: git+https://github.com/laurenlusk/gr-uhdgps-e310.git
+source: git+https://github.com/laurenlusk/gr-uhdgps.git
