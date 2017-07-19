@@ -20,7 +20,7 @@
 category: common
 depends:
 - gnuradio
-- gr-uhdgps-e310
+- gr-uhdgps
 - gr-eventstream
 description: This block automatically cycles through frequencies
 gitbranch: master
