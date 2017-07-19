@@ -4,4 +4,4 @@ depends:
 inherit: distutils
 satisfy:
   pip: gps3
-source git+https://github.com/wadda/gps3.git
+source: git+https://github.com/wadda/gps3.git
