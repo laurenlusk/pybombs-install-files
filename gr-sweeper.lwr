@@ -25,4 +25,4 @@ depends:
 description: This block automatically cycles through frequencies
 gitbranch: master
 inherit: cmake
-source: git+https://github.com/laurenlusk/gr-frequency_hopper.git
+source: git+https://github.com/laurenlusk/gr-sweeper.git
