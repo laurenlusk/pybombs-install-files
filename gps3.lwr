@@ -2,4 +2,4 @@ category: baseline
 depends:
 - python
 inherit: distutils
-source: wget+https://github.com/wadda/gps3/archive/0.20.tar.gz
+source: wget+https://github.com/laurenlusk/gps3/archive/v1.tar.gz
